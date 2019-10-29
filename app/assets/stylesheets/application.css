@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+ #Header {
+    background-color: lightgray;
+    padding: 10px;
+    border: solid 1px black;
+    font-style: normal;
+    }
